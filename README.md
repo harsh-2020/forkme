@@ -88,7 +88,7 @@ Create pull request via GitHub web interface as per the following steps:
   - Go to your fork on GitHub.
   - Switch to the topic branch.
   - Click *Compare & pull request*.
-  - Click *Create pull request*.
+  - Click *Create pull request*. 
 
 Wait for an upstream developer to review and merge your pull request.
 
